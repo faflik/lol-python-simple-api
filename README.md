@@ -1,1 +1,1 @@
-# League of Legends simple API test
+League of Legends simple API test
